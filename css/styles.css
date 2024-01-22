@@ -28,12 +28,12 @@
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: var(--navy-blue);
+  color: #434455;
   background-color: var(--white-background);
 }
 
 .header-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: calc(21 / 18);
@@ -88,7 +88,7 @@ body {
 .hero-btn {
   background-color: var(--primary-iris);
   color: var(--white-tx);
-  font-family: Roboto;
+  font-family: "Raleway", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -104,7 +104,6 @@ body {
 /* Description */
 
 .descr-title {
-  color: var(--navy-blue);
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 20px;
   font-weight: 500;
@@ -179,7 +178,7 @@ body {
   background-color: var(--navy-blue);
 }
 .footer-logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: calc(21 / 18);
