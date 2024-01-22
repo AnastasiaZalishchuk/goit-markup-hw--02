@@ -117,7 +117,8 @@ body {
   color: var(--slate-tx);
   font-size: 16px;
   font-weight: 400;
-  line-height: calc(24 / 16);
+  /* line-height: calc(24 / 16); */
+  line-height: 1.2;
   letter-spacing: 0.32px;
 }
 
